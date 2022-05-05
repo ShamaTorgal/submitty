@@ -1,12 +1,12 @@
 #TargetName : Dependencies
 #<TAB>commands
 
-Build : Sumof.c 
-	gcc Sumof.c
+Build : submitty.c 
+	gcc submitty.c
 	
 
-Run : Sumof.out
-	./Sumof.out
+Run : submitty.out
+	./a.out
 
 	
 	
